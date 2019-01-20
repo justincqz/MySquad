@@ -1,0 +1,16 @@
+name: MySquad
+main: io.github.justincqz.MySquad.MySquad
+version: 0.0.1
+author: Nizja
+commands:
+  mysquad:
+    description: The root command for all other functions.
+    usage: /<command> <command> [args..]
+    permission: <plugin name>
+    permission-message: MySquad is not enabled for you.
+
+  msq:
+      description: The root command for all other functions.
+      usage: /<command> <command> [args..]
+      permission: <plugin name>
+      permission-message: MySquad is not enabled for you.
